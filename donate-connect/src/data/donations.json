@@ -1,0 +1,5 @@
+[
+  { "id": "d1", "title": "Emergency Food Pack", "category": "Food", "quantity": 120, "location": "Houston", "donorId": "u2", "donorName": "Daniel Donor", "status": "Approved", "createdAt": "2026-02-20" },
+  { "id": "d2", "title": "Winter Blankets", "category": "Essentials", "quantity": 80, "location": "Denver", "donorId": "u2", "donorName": "Daniel Donor", "status": "In Transit", "createdAt": "2026-02-21" },
+  { "id": "d3", "title": "Medical Kits", "category": "Medical", "quantity": 45, "location": "Phoenix", "donorId": "u2", "donorName": "Daniel Donor", "status": "Pending", "createdAt": "2026-02-24" }
+]

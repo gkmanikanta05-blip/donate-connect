@@ -1,0 +1,5 @@
+[
+  { "id": "i1", "name": "Rice Bags", "quantity": 200, "warehouse": "Central Hub" },
+  { "id": "i2", "name": "Water Cases", "quantity": 150, "warehouse": "North Hub" },
+  { "id": "i3", "name": "Hygiene Kits", "quantity": 95, "warehouse": "East Hub" }
+]

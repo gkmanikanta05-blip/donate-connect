@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.hero-bg {
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(59, 130, 246, 0.4), transparent 35%),
+    radial-gradient(circle at 80% 0%, rgba(99, 102, 241, 0.35), transparent 30%),
+    linear-gradient(120deg, #111827, #1d4ed8 45%, #4f46e5);
+}

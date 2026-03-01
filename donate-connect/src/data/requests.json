@@ -1,0 +1,5 @@
+[
+  { "id": "r1", "item": "Drinking Water", "quantity": 300, "urgency": "High", "location": "Austin", "recipientId": "u3", "recipientName": "Rina Recipient", "status": "Approved", "feedback": "" },
+  { "id": "r2", "item": "Baby Formula", "quantity": 50, "urgency": "Medium", "location": "Austin", "recipientId": "u3", "recipientName": "Rina Recipient", "status": "In Transit", "feedback": "" },
+  { "id": "r3", "item": "First Aid Supplies", "quantity": 40, "urgency": "Low", "location": "San Diego", "recipientId": "u3", "recipientName": "Rina Recipient", "status": "Pending", "feedback": "" }
+]

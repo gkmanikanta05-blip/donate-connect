@@ -1,0 +1,4 @@
+[
+  { "id": "dr1", "title": "Flood Relief 2026", "description": "Collect food, water and sanitation kits.", "goal": 1000, "collected": 620, "status": "Active", "createdBy": "Ava Admin" },
+  { "id": "dr2", "title": "School Essentials Drive", "description": "Support displaced families with school kits.", "goal": 500, "collected": 320, "status": "Active", "createdBy": "Ava Admin" }
+]

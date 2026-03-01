@@ -1,0 +1,6 @@
+[
+  { "id": "u1", "name": "Ava Admin", "email": "admin@donateconnect.com", "password": "admin123", "role": "Admin", "phone": "555-1001" },
+  { "id": "u2", "name": "Daniel Donor", "email": "donor@donateconnect.com", "password": "donor123", "role": "Donor", "phone": "555-2001" },
+  { "id": "u3", "name": "Rina Recipient", "email": "recipient@donateconnect.com", "password": "recipient123", "role": "Recipient", "phone": "555-3001" },
+  { "id": "u4", "name": "Leo Logistics", "email": "logistics@donateconnect.com", "password": "logistics123", "role": "Logistics Coordinator", "phone": "555-4001" }
+]
